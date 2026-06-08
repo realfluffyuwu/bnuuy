@@ -1,6 +1,6 @@
 # bnuuy
 
-I thought the meme was funny
+I thought the meme was funny  
 ![bnuuy original](https://github.com/realfluffyuwu/bnuuy/blob/master/examples/bnuuy_original.png)
 
 # Previews:
